@@ -4,41 +4,61 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2c8b436-5d1c-4809-b13e-cd2ff6156440" name="Changes" comment="" />
+    <list default="true" id="e2c8b436-5d1c-4809-b13e-cd2ff6156440" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_blog/ai_web/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ai_blog/templates/articles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai_blog/ai_blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai_blog/ai_blog/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai_blog/ai_blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai_blog/ai_blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai_blog/ai_web/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai_blog/ai_web/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai_blog/ai_web/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai_blog/ai_web/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai_blog/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ai_blog/db.sqlite3" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/ai_blog/ai_blog/settings.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ai_blog/ai_blog/urls.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ai_blog/ai_web/admin.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/ai_blog/ai_web/models.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ai_blog/ai_web/urls.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ai_blog/ai_web/views.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ai_blog/templates/articles.html" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2ZPbUmi1tiWKYF14ufGPuvDFsbT" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Lab3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;sqlite&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.Uruchom Zatrzymaj Blog">
     <configuration name="Uruchom Zatrzymaj Blog" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProjectBlog" />
@@ -106,6 +126,25 @@
       <workItem from="1702329407246" duration="310000" />
       <workItem from="1702329723978" duration="6580000" />
       <workItem from="1702373528398" duration="701000" />
+      <workItem from="1702458962329" duration="4089000" />
+      <workItem from="1702464317671" duration="58000" />
+      <workItem from="1702464439828" duration="2600000" />
+      <workItem from="1702467244112" duration="3224000" />
+      <workItem from="1702470796245" duration="4220000" />
+      <workItem from="1702475574371" duration="2835000" />
+      <workItem from="1702478434865" duration="2536000" />
+      <workItem from="1702484790148" duration="13045000" />
+      <workItem from="1702501407950" duration="21000" />
+      <workItem from="1702503443778" duration="284000" />
+      <workItem from="1702503736008" duration="8510000" />
+      <workItem from="1702652357579" duration="11744000" />
+      <workItem from="1702740992357" duration="6798000" />
+      <workItem from="1703006341819" duration="1127000" />
+      <workItem from="1703015962866" duration="37000" />
+      <workItem from="1703016803391" duration="70000" />
+      <workItem from="1703018281338" duration="127000" />
+      <workItem from="1703018549743" duration="145000" />
+      <workItem from="1703019427540" duration="1826000" />
     </task>
     <servers />
   </component>
@@ -120,11 +159,15 @@
           <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ai_blog/ai_web/urls.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/ProjectBlog$Uruchom_Zatrzymaj_Blog.coverage" NAME="Uruchom Zatrzymaj Blog Coverage Results" MODIFIED="1702373559770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ai_blog" />
+    <SUITE FILE_PATH="coverage/ProjectBlog$Uruchom_Zatrzymaj_Blog.coverage" NAME="Uruchom Zatrzymaj Blog Coverage Results" MODIFIED="1703020992803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ai_blog" />
     <SUITE FILE_PATH="coverage/ProjectBlog$manage.coverage" NAME="Uruchom Zatrzymaj Blog Coverage Results" MODIFIED="1702327925354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ai_blog" />
   </component>
 </project>
