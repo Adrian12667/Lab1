@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2c8b436-5d1c-4809-b13e-cd2ff6156440" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ai_blog/ai_web/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ai_blog/templates/articles.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ai_blog/ai_blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai_blog/ai_blog/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ai_blog/ai_blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai_blog/ai_blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ai_blog/ai_web/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai_blog/ai_web/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ai_blog/ai_web/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/ai_blog/ai_web/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ai_blog/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/ai_blog/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,24 +33,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Lab3",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Lab3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "sqlite"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.Uruchom Zatrzymaj Blog">
     <configuration name="Uruchom Zatrzymaj Blog" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="ProjectBlog" />
@@ -144,7 +136,8 @@
       <workItem from="1703016803391" duration="70000" />
       <workItem from="1703018281338" duration="127000" />
       <workItem from="1703018549743" duration="145000" />
-      <workItem from="1703019427540" duration="1826000" />
+      <workItem from="1703019427540" duration="2442000" />
+      <workItem from="1704388651260" duration="92000" />
     </task>
     <servers />
   </component>
